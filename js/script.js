@@ -43,7 +43,7 @@ function makeMove(sticksToRemove) {
 function makeAIMove() {
     var bestMove = null; // Variável para armazenar a melhor jogada
     var bestValue = Number.NEGATIVE_INFINITY; // Valor inicial da melhor pontuação é negativo infinito
-    var profundidade = 5;
+    var profundidade = 2;
 
     for (var i = 0; i < piles.length; i++) { // Percorre as pilhas
         for (var sticksToRemove = 1; sticksToRemove <= 3; sticksToRemove++) { // Percorre as quantidades de palitos a serem removidos
