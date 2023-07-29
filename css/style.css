@@ -1,0 +1,52 @@
+.board {
+    display: flex;
+    justify-content: center;
+}
+
+.pile {
+    margin: 10px;
+}
+
+
+.stick {
+    display: inline-block;
+    width: 50px;
+    height: 200px;
+    background-color: rgb(255, 68, 68);
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.container {
+padding: 15px;
+margin-top: 30px;
+}
+
+.alert {
+    padding: 15px;
+    margin: 30px;
+    }
+
+.my_scroll_div{
+    overflow-y: auto;
+    max-height: 500px;
+}
+
+#card{
+    max-height: 500px;
+}
+
+/*arvore*/
+.node circle {
+    fill: #fff;
+    stroke: rgb(0, 81, 255);
+    stroke-width: 3px;
+  }
+ 
+  .node text { font: 12px sans-serif; }
+ 
+  .link {
+    fill: none;
+    stroke: #000;
+    stroke-width: 2px;
+  }
