@@ -10,7 +10,7 @@ O jogo de Nim parece ter origem na China, é jogado na Europa desde o século XV
 Basta abrir no seu navegador o arquivo index.html que se encontra na raiz do projeto.
 
 <hr>
-<img alt="jogonim" src="https://ik.imagekit.io/cleber/JogoNim_79awwYjCM.gif?updatedAt=1690671184657">
+<img alt="jogonim"  src="https://ik.imagekit.io/cleber/JogoNim_79awwYjCM.gif?updatedAt=1690671184657">
 
 ## Script Minimax
 
